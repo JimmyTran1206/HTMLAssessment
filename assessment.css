@@ -1,0 +1,48 @@
+/*User Story 1*/
+h2,h3,h4,h5 {
+	font-family: sans-serif;
+	color: #3437eb;
+}
+
+/*User Story 2*/
+table, th,td{
+	border: 1px solid black;
+	text-align: center;
+	border-collapse: collapse;
+	padding: 5px;
+}
+
+tbody>tr{
+	background-color: #c5d6b0;
+}
+
+tr:hover {
+	background-color: #ddd;
+}
+th{
+	font-weight: 600;
+	color: #eb3459;
+	background-color: #04AA6D;
+}
+
+/*User Story 3*/
+ul#teamRoster, ul#teamRoster ul{
+	list-style-type: square;
+}
+
+/*User Story 4*/
+a{
+	text-decoration: none;
+}
+a:hover{
+	background-color: #90e0d8;
+}
+
+/*User Story 5*/
+blockquote{
+	background-color: #113457;
+	color: #f2ee7c;
+}
+/*User Story 6*/
+
+/*User Story 7*/
